@@ -1,0 +1,13 @@
+{
+  "name": "Just Meats",
+  "description": "REPLACE_WITH_FACEBOOK_DESCRIPTION",
+  "phone": "15551234567",
+  "address": "123 Main Street, Your City, State",
+  "hours": "Mon–Sat: 9am–6pm\\nSunday: Closed",
+  "website": "",
+  "facebook_post_url": "https://www.facebook.com/p/Just-Meats-100055680545095/",
+  "facebook_post_text": "REPLACE_WITH_FULL_FACEBOOK_POST_TEXT",
+  "images": [
+    "REPLACE_WITH_DIRECT_IMAGE_URL_1"
+  ]
+}
