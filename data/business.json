@@ -1,13 +1,22 @@
 {
   "name": "Just Meats",
-  "description": "REPLACE_WITH_FACEBOOK_DESCRIPTION",
-  "phone": "15551234567",
-  "address": "123 Main Street, Your City, State",
-  "hours": "Mon–Sat: 9am–6pm\\nSunday: Closed",
+  "description": "Fresh Meats • Premium Cuts",
+  "phone": "9283023419",
+  "email": "justmeatslhcaz@gmail.com",
+  "address": "34 N. Lake Havasu Ave #7, Lake Havasu City, AZ, United States",
+  "hours": "Sunday: 11AM-4PM\nMonday-Saturday: 9AM-6PM",
   "website": "",
   "facebook_post_url": "https://www.facebook.com/p/Just-Meats-100055680545095/",
-  "facebook_post_text": "REPLACE_WITH_FULL_FACEBOOK_POST_TEXT",
+  "facebook_post_text": "•Fresh Meats • Premium Cuts\nSunday: 11AM-4PM\nMonday-Saturday: 9AM-6PM\n\nPage · Butcher Shop · Specialty Grocery Store\n\nIn-store shopping\n\n96% recommend (17 Reviews)",
+  "social_handle": "just_meats_lhc",
+  "followers": 437,
+  "category": "Butcher Shop · Specialty Grocery Store",
+  "shopping": "In-store shopping",
+  "recommendation": "96% recommend (17 Reviews)",
   "images": [
-    "REPLACE_WITH_DIRECT_IMAGE_URL_1"
+    "images/1.jpg",
+    "images/2.jpg",
+    "images/3.jpg",
+    "images/4.jpg"
   ]
 }
